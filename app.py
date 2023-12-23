@@ -68,7 +68,7 @@ background_image = """
 """
 st.markdown(background_image, unsafe_allow_html=True)
 # Оглавление и описание
-st.title('Пердсказание выбросов СО2')
+st.title('Предсказание выбросов СО2')
 st.write('Введите параметры двигателя для пердсказания выбросов СО2')
 
 # Ввод пользователя
